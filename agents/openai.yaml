@@ -1,0 +1,7 @@
+interface:
+  display_name: "اتاق تصمیم بی‌رحم"
+  short_description: "دستیار تصمیم و اجرای مدیران بر پایه قوانین رشد"
+  brand_color: "#C61F2B"
+  default_prompt: "از $ruthless-growth-ceo برای تشخیص مسئله مدیریتی من و تبدیل آن به یک تصمیم و برنامه اجرایی استفاده کن."
+policy:
+  allow_implicit_invocation: true
